@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\kirkb\.Rider2019.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\kirkb\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Project 1.742469420.00" t="ExcludeRecursive" />
-    <e p="C:\Users\kirkb\Documents\maya\projects\1660 Spring 2020\JoshuaBaum---Scripting-2020-Spring\Project 1" t="IncludeRecursive">
+    <e p="C:\Users\10820712\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\10820712\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Project 1.1668829588.00" t="ExcludeRecursive" />
+    <e p="C:\Users\10820712\Documents\JoshuaBaum---Scripting-2020-Spring\Project 1" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
+          <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="StartFunctions.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
+          <e p="TriggeringEvents.cs" t="Include" />
           <e p="Triggers.cs" t="Include" />
         </e>
       </e>
