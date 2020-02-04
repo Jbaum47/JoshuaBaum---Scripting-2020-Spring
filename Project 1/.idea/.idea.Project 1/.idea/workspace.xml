@@ -4,7 +4,6 @@
     <list default="true" id="10f18c2f-2e90-43f1-a57d-7fd78a17cbdb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +18,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DemoLightScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollisionsTutorial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Triggers.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -32,6 +32,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DemoLightScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Collisions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CollisionsTutorial.cs" />
       </list>
     </option>
   </component>
@@ -55,7 +57,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C#" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
@@ -102,6 +104,7 @@
       <workItem from="1580317640367" duration="2513000" />
       <workItem from="1580534657467" duration="32000" />
       <workItem from="1580534719565" duration="333000" />
+      <workItem from="1580790266199" duration="286000" />
     </task>
     <servers />
   </component>
@@ -124,10 +127,13 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="445" y="161" key="SettingsEditor" />
-    <state x="445" y="161" key="SettingsEditor/1920.1080" />
-    <state x="758" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" />
-    <state x="758" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.1080" />
+    <state x="445" y="161" key="SettingsEditor" timestamp="1580790322842">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="445" y="161" key="SettingsEditor/0.0.2560.1400/3840.0.2560.1440@0.0.2560.1400" timestamp="1580790322842" />
+    <state x="445" y="161" key="SettingsEditor/1920.1080" timestamp="1580790318273" />
+    <state x="758" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580790318273" />
+    <state x="758" y="208" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/1920.1080" timestamp="1580790318273" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
