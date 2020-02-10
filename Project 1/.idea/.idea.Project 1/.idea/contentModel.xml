@@ -10,8 +10,10 @@
           <e p="CharacterMover.cs" t="Include" />
           <e p="CollisionsTutorial.cs" t="Include" />
           <e p="DemoLightScript.cs" t="Include" />
+          <e p="IfStatements.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
+          <e p="RigidBodyForces.cs" t="Include" />
           <e p="StartFunctions.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />
