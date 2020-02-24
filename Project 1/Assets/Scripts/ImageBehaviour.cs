@@ -8,7 +8,7 @@ using UnityEngine.UI;
 public class ImageBehaviour : MonoBehaviour
 {
   private Image imageObj;
-  public float health;
+  public FloatData dataObj;
 
   private void Start()
   {
@@ -17,7 +17,7 @@ public class ImageBehaviour : MonoBehaviour
 
   public void Update()
   {
-    imageObj.fillAmount = health;
+    imageObj.fillAmount = dataObj.value;
     
     if (imageObj.fillAmount > .5)
     {
@@ -28,7 +28,7 @@ public class ImageBehaviour : MonoBehaviour
       imageObj.color = Color.yellow;
     }
 
-    if (imageObj.fillAmount <=.25)
+    if (imageObj.fillAmount <= .25)
     {
       imageObj.color = Color.red;
     }
