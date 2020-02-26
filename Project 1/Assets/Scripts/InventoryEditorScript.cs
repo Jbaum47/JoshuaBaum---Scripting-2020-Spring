@@ -22,12 +22,17 @@ public class InventoryEditorScript : Editor
     public override void OnInspectorGUI()
     {
         serializedObject.Update();
-        for (int i = 0; i < Inventory.numItemSlots; i++)
+        for (int i = 0; i < InventoryScript.numItemSlots; i++)
         {
             ItemSlotGUI(i);
         }
 
         serializedObject.ApplyModifiedProperties();
+    }
+
+    private void ItemSlotGUI(int i)
+    {
+        throw new NotImplementedException();
     }
 
     private void ItemSlotGui(int index)
@@ -46,3 +51,4 @@ public class InventoryEditorScript : Editor
         EditorGUILayout.EndVertical();
     }
 }
+
