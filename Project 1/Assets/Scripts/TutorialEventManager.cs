@@ -10,25 +10,29 @@ public class TutorialEventManager : MonoBehaviour
     
     private static EventManager eventManager;
 
-    public static EventManager instance
+    private static EventManager instance
     {
         get
         {
-            if (!eventManager)
+            if (eventManager != null)
             {
-                eventManager = FindObjectOfType(typeof(EventManager)) as EventManager;
-
                 if (!eventManager)
                 {
-                    Debug.LogError("There needs to be one active EventManager script on a GameObject in your scene.");
-                }
-                else
-                {
-                    eventManager.Init();
-                }
-            }
+                    eventManager = FindObjectOfType(typeof(EventManager)) as EventManager;
 
-            return eventManager;
+                    if (!eventManager)
+                    {
+                        Debug.LogError(
+                            "There needs to be one active EventManager script on a GameObject in your scene.");
+                    }
+                    else
+                    {
+                        eventManager.Init();
+                    }
+                }
+
+                return eventManager;
+            }
         }
     }
 
@@ -72,5 +76,15 @@ public class TutorialEventManager : MonoBehaviour
         {
             thisEvent.Invoke();
         }
+    }
+}
+
+internal class EventManager
+{
+    public object eventDictionary;
+
+    public void Init()
+    {
+        throw new System.NotImplementedException();
     }
 }

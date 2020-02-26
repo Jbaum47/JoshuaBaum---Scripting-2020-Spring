@@ -16,6 +16,8 @@
           <e p="IfStatementTutorial.cs" t="Include" />
           <e p="ImageBehaviour.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
+          <e p="InventoryEditorScript.cs" t="Include" />
+          <e p="InventoryScript.cs" t="Include" />
           <e p="LevelScript.cs" t="Include" />
           <e p="LevelScriptEditor.cs" t="Include" />
           <e p="LightControls.cs" t="Include" />
