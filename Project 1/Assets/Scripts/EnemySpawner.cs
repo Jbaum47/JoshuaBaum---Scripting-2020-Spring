@@ -11,7 +11,7 @@ public class EnemySpawner : MonoBehaviour
 
     public void Start()
     {
-        Invoke("SpawnEnemy");
+        //Invoke(@"SpawnEnemy");
     }
 
     public void Update()
