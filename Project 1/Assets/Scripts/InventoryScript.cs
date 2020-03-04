@@ -43,4 +43,5 @@ public class InventoryScript : MonoBehaviour
 public class Item
 {
     public Sprite sprite;
+    public int id;
 }
