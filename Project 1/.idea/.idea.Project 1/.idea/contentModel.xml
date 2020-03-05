@@ -38,7 +38,9 @@
           <e p="Triggers.cs" t="Include" />
           <e p="TutorialCameraController.cs" t="Include" />
           <e p="TutorialCharacterController.cs" t="Include" />
+          <e p="TutorialInventoryCraftRecipe.cs" t="Include" />
           <e p="TutorialInventoryItem.cs" t="Include" />
+          <e p="TutorialInventoryItemDatabase.cs" t="Include" />
           <e p="TutorialRotater.cs" t="Include" />
         </e>
       </e>

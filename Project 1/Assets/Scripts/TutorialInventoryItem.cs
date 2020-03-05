@@ -10,7 +10,7 @@ public class TutorialInventoryItem
     public Sprite icon;
     public Dictionary<string, int> stats = new Dictionary<string, int>();
 
-    public TutorialInventoryItem(int id, string description, Sprite icon, Dictionary<string, int> stats)
+    public TutorialInventoryItem(int id, string title, string description, Dictionary<string, int> stats)
     {
         this.id = id;
         this.title = title;
