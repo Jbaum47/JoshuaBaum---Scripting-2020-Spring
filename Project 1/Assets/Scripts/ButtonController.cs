@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Resources;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -8,10 +9,14 @@ using UnityEngine.UI;
 public class ButtonController : MonoBehaviour
 {
     private Button buttonObj;
-
+    public Text buttonText;
     private void Start()
     {
-        GetComponent<Button>();
+       buttonObj = GetComponent<Button>(); 
+       
+       buttonText.text = "Reset";
     }
+
+    
 }
    
