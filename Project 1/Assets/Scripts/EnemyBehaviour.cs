@@ -30,6 +30,6 @@ public class EnemyBehaviour : MonoBehaviour
 
     void moveCharacter(Vector2 direction)
     {
-        rb.MovePosition(transform.position + (direction * moveSpeed * Time.deltaTime));
+        //rb.MovePosition(transform.position + (direction * moveSpeed * Time.deltaTime));
     }
 }
