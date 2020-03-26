@@ -31,6 +31,7 @@
           <e p="LightControls.cs" t="Include" />
           <e p="ListsAndLoops.cs" t="Include" />
           <e p="MouseEvents.cs" t="Include" />
+          <e p="NavAgentBehaviour.cs" t="Include" />
           <e p="NewClass.cs" t="Include" />
           <e p="PlayerProperties.cs" t="Include" />
           <e p="RigidBodyForces.cs" t="Include" />
@@ -38,6 +39,7 @@
           <e p="SomeScriptEditor.cs" t="Include" />
           <e p="SpriteController.cs" t="Include" />
           <e p="StartFunctions.cs" t="Include" />
+          <e p="StringData.cs" t="Include" />
           <e p="TextBehaviour.cs" t="Include" />
           <e p="TriggerEvents.cs" t="Include" />
           <e p="TriggeringEvents.cs" t="Include" />

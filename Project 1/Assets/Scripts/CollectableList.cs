@@ -17,9 +17,9 @@ public class CollectableList : ScriptableObject
     {
         for (int i = 0; i < collectables.Count; i++)
         {
-            if (collectables[i] == collectableObj)
+           // if (collectables[i] == collectableObj)
             {
-                collectables.Remove(collectableObj);
+               // collectables.Remove(collectableObj);
             } 
         }
     }
