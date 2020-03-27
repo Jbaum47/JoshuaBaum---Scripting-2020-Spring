@@ -4,7 +4,7 @@
     <list default="true" id="10f18c2f-2e90-43f1-a57d-7fd78a17cbdb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CollectableList.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CollectableList.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Tutorial 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Tutorial 1.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +18,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollectableList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelScriptEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TriggerEvents.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StringData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -25,6 +26,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TutorialRotater.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TutorialInventoryItemDatabase.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ListsAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TutorialInventoryItem.cs" root0="FORCE_HIGHLIGHTING" />
@@ -81,6 +83,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CollectableList.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StringData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SceneManager.cs" />
       </list>
     </option>
   </component>
@@ -179,6 +182,7 @@
       <workItem from="1584072451078" duration="1152000" />
       <workItem from="1585113230048" duration="1008000" />
       <workItem from="1585178896132" duration="2689000" />
+      <workItem from="1585284622043" duration="739000" />
     </task>
     <servers />
   </component>
