@@ -14,6 +14,7 @@
           <e p="CollectableList.cs" t="Include" />
           <e p="CollisionsTutorial.cs" t="Include" />
           <e p="ConversationScript.cs" t="Include" />
+          <e p="Coroutines.cs" t="Include" />
           <e p="DemoLightScript.cs" t="Include" />
           <e p="DropdownBehaviour.cs" t="Include" />
           <e p="EnemyBehaviour.cs" t="Include" />

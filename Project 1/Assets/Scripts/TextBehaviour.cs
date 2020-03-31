@@ -5,15 +5,19 @@ using UnityEngine.UI;
 public class TextBehaviour : MonoBehaviour
 {
     private Text textObj;
-    public IntData dataObj;
 
     private void Start()
     {
         textObj = GetComponent<Text>();
     }
 
-    public void Update()
+    public void ChangeText(string message)
     {
-        textObj.text = dataObj.value.ToString();
+        textObj.text = message;
+    }
+
+    public void ChangeText(IntData obj)
+    {
+        textObj.text = obj.value.ToString();
     }
 }
