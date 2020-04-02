@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10f18c2f-2e90-43f1-a57d-7fd78a17cbdb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Material/Blue Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Material/Blue Material.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/AI.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AI.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +17,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CollectableList.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewClass.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelScriptEditor.cs" root0="FORCE_HIGHLIGHTING" />
@@ -83,11 +85,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Collectable.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ConversationScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CollectableList.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/StringData.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/SceneManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -188,6 +190,7 @@
       <workItem from="1585178896132" duration="2689000" />
       <workItem from="1585284622043" duration="739000" />
       <workItem from="1585597548730" duration="3684000" />
+      <workItem from="1585799345630" duration="2051000" />
     </task>
     <servers />
   </component>
