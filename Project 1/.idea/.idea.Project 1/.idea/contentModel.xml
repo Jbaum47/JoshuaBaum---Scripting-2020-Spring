@@ -26,6 +26,9 @@
           <e p="ImageBehaviour.cs" t="Include" />
           <e p="InstantiationAndSpawnerTutorial.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
+          <e p="Interfaces" t="Include">
+            <e p="DamageInterface.cs" t="Include" />
+          </e>
           <e p="InventoryEditorScript.cs" t="Include" />
           <e p="InventoryScript.cs" t="Include" />
           <e p="LevelScript.cs" t="Include" />
