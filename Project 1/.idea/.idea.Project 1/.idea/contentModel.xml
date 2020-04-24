@@ -7,7 +7,6 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="AlternateCoroutine.cs" t="Include" />
           <e p="ButtonController.cs" t="Include" />
           <e p="CameraController.cs" t="Include" />
           <e p="CameraFollow.cs" t="Include" />
@@ -42,6 +41,7 @@
           <e p="PlayerProperties.cs" t="Include" />
           <e p="RigidBodyForces.cs" t="Include" />
           <e p="SceneManager.cs" t="Include" />
+          <e p="SimpleCoroutine.cs" t="Include" />
           <e p="SomeScript.cs" t="Include" />
           <e p="SomeScriptEditor.cs" t="Include" />
           <e p="SpriteController.cs" t="Include" />

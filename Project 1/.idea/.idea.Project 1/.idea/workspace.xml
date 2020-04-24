@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="10f18c2f-2e90-43f1-a57d-7fd78a17cbdb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,7 +201,7 @@
       <workItem from="1587011159081" duration="330000" />
       <workItem from="1587183499791" duration="767000" />
       <workItem from="1587186126502" duration="634000" />
-      <workItem from="1587707211426" duration="216000" />
+      <workItem from="1587707211426" duration="854000" />
     </task>
     <servers />
   </component>
