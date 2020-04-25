@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="10f18c2f-2e90-43f1-a57d-7fd78a17cbdb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Project 1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/SimpleCoroutine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/SimpleCoroutine.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +37,8 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartFunctions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/TutorialRotater.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/IntData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InstancingBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCoroutine.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ListsAndLoops.cs" root0="FORCE_HIGHLIGHTING" />
@@ -43,8 +48,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/StartFunctions.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Triggers.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TriggeringEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MouseEvents.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DemoLightScript.cs" />
@@ -88,12 +91,14 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/SceneManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TextBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Coroutines.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CharacterMover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraFollow.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TitleScreen.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/DamageInterface.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/AlternateCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InstancingBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SimpleCoroutine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NavAgentBehaviour.cs" />
       </list>
     </option>
   </component>
@@ -201,7 +206,7 @@
       <workItem from="1587011159081" duration="330000" />
       <workItem from="1587183499791" duration="767000" />
       <workItem from="1587186126502" duration="634000" />
-      <workItem from="1587707211426" duration="854000" />
+      <workItem from="1587707211426" duration="1286000" />
     </task>
     <servers />
   </component>

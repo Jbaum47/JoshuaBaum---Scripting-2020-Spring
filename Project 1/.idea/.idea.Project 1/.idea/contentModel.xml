@@ -24,6 +24,7 @@
           <e p="IfStatements.cs" t="Include" />
           <e p="IfStatementTutorial.cs" t="Include" />
           <e p="ImageBehaviour.cs" t="Include" />
+          <e p="InstancingBehaviour.cs" t="Include" />
           <e p="InstantiationAndSpawnerTutorial.cs" t="Include" />
           <e p="IntData.cs" t="Include" />
           <e p="Interfaces" t="Include">

@@ -43,6 +43,11 @@ public class NavAgentBehaviour : MonoBehaviour
            return;
         }
 
+        if (patrolPoints.Contains(null))
+        {
+            return;
+        }
+
         if (!agent.pathPending && agent.remainingDistance < 0.5f)
         {
             agent.destination = patrolPoints[i].position;
