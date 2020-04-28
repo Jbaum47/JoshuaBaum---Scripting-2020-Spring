@@ -7,6 +7,6 @@ public class InstancingBehaviour : MonoBehaviour
 {
     public GameObject prefab;
     
-    private Instantiate(Prefab, Transform,);
+    private Instantiate(Prefab, Transform);
     
 }
